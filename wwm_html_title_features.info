@@ -1,0 +1,10 @@
+name = WWM HTML Title Features
+description = Features to support HTML node titles
+core = 7.x
+package = WWM
+version = 7.x-1.0
+dependencies[] = ckeditor
+dependencies[] = title_html
+dependencies[] = textarea_widget_for_text
+features[ckeditor_profile][] = Title
+features[features_api][] = api:2
