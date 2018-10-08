@@ -56,7 +56,6 @@ function wwm_html_title_features_ckeditor_profile_defaults() {
         'theme_config_js' => 'f',
         'js_conf' => 'config.keystrokes = [[ 13 /*Enter*/, \'doNothing\'], [ CKEDITOR.SHIFT + 13 /*Shift-Enter*/, \'doNothing\']];
 config.removePlugins = \'elementspath\';
-config.resize_enabled = false;
 config.specialChars = [
 	\'!\', \'&quot;\', \'#\', \'$\', \'%\', \'&amp;\', "\'", \'(\', \')\', \'*\', \'+\', \'-\', \'.\', \'/\',
 	\':\', \';\',
